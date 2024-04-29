@@ -1,4 +1,4 @@
-# ML_Project_CNN
+# MERGING WELL-TRAINED DEEP-CNN MODELS
 
 ## Contributors:
 - Travis You <zyou3@jh.edu>
